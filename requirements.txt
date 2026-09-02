@@ -1,0 +1,5 @@
+chromadb
+requests
+flask
+flask-login
+flask-sqlalchemy

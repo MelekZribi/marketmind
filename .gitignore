@@ -1,0 +1,5 @@
+﻿marketmind.db
+__pycache__/
+*.pyc
+chroma_store/
+.env
