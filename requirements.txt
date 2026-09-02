@@ -3,3 +3,4 @@ requests
 flask
 flask-login
 flask-sqlalchemy
+gunicorn
